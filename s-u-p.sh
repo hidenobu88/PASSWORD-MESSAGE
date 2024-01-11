@@ -19,4 +19,4 @@ read PassWord
 
 echo "$ServiceName:$UserName:$PassWord" >> s-u-p.sh
 
-echo "Thank you!"
+echo "受け付けが完了しました。"
